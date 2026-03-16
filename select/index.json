@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "詩超絆",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2026-03-16T06:09:55.941682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "詩超絆",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_詩超絆_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "詩超絆 - Utakotoba",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/02_詩超絆_-_Utakotoba_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "詩超絆",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_01_詩超絆_MyGO!!!!!.txt"
+    }
+  ]
+}
